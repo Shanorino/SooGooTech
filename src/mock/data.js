@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'OPT.png',
   paragraphOne: '搜谷科技',
   paragraphTwo: '提供计算机视觉设备以及相关解决方案',
-  paragraphThree: '随便扯点',
+  paragraphThree: 'branch test vincefy',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
